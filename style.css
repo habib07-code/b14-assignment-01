@@ -5,9 +5,9 @@
 .common-btn{
     background-color: #1D4ED8;
     color: white;
-     padding: 10px 28px;
+    padding: 10px 28px;
     border-radius: 12px;
-    font-weight: bold;
+    font-weight:bold;
     font-size: 14px;
     border: none;
     cursor: pointer;
@@ -35,5 +35,43 @@ ul li a{
 .div-1{
     display: flex;
     align-items: center;
-
 }
+/* Banner Hero Section */
+ .banner-hero{
+    background-image: url("./assets/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
+}
+.button-regi{
+    text-align: center;
+    margin-top: 250px;
+}
+.hero-content{
+    /* text-align: center; */
+     color: white;
+}
+.hero-content h2{
+    font-size: 65px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+.hero-content em{
+    font-style: italic;
+}
+.hero-content p{
+    font-size: 18px;
+    max-width: 650px;
+    text-align: center;
+ }
+ /* Meet the Speakers Section */
+ .speakers-h{
+    font-size: 33px;
+    text-align: center;
+    margin-top: 35px;
+ }
