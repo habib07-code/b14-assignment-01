@@ -97,14 +97,24 @@ ul li a{
 .speakers-details h5{
     color: #2563EB;
 }
-/*  */
-     .spot h1{
-        
-        font-size: 40px;
-        text-align: center;
-     }
-     .spot p{
-        text-align: center;
-        margin-top: 5px;
-     }
-     
+/* Secure Your Spot (Pricing) Section */
+.spot-sec{
+    max-width: 1200px;
+    margin: 100px auto;
+}
+.spot-h1{
+    text-align: center;
+    font-size: 40px;
+}
+.spot-p{
+    text-align: center;
+    margin-top: 8px;
+}
+.spot-card{
+    margin-top: 20px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: none;
+    box-sizing: border-box;
+}
