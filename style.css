@@ -38,7 +38,9 @@ ul li a{
 }
 /* Banner Hero Section */
  .banner-hero{
-    background-image: url("./assets/banner.jpg");
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+    url("./assets/banner.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
