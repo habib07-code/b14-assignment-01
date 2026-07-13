@@ -52,7 +52,7 @@ ul li a{
 }
 .button-regi{
     text-align: center;
-    margin-top: 250px;
+    margin-top: 300px;
 }
 .hero-content{
      color: white;
@@ -66,9 +66,11 @@ ul li a{
     font-style: italic;
 }
 .hero-content p{
-    font-size: 18px;
+    font-size: 21px;
     max-width: 650px;
     text-align: center;
+    justify-content: center;
+
  }
  /* Meet the Speakers Section */
  .speakers-sec{
@@ -260,7 +262,7 @@ ul li a{
 }
 .social-links a{
     color: #1D4ED8;
-    font-size: 22px;
+    font-size: 19px;
 }
 .footer hr{
     border: none;
@@ -271,6 +273,6 @@ ul li a{
     text-align:center;
     color: #666;
     font-size: 15px;
-    margin-top: 8px;
+    margin-top: 10px;
     margin-bottom: auto;
 }
